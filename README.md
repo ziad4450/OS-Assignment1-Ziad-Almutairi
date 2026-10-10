@@ -16,9 +16,9 @@
 
 ## 🎥 Video Link
 
-**Video Link**: `[ضع_رابط_فيديو_Google_Drive_هنا]`
+**Video Link**: 
 
-> ⚠️ **Verification Note:** Ensure the video file is named `445050300_Assignment1_Demo.mp4`, lasts 2 to 3 minutes, and has permissions set to "Anyone with the link can view".
+> ⚠️ **Verification Note:** Ensure the video file is named ``, lasts 2 to 3 minutes, and has permissions set to "Anyone with the link can view".
 
 ---
 
