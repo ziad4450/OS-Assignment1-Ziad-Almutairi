@@ -6,7 +6,7 @@
 
 | Field | Your Answer |
 |-------|-------------|
-| **Full Name** | Ziad Almutairi |
+| **Full Name** | Ziad Almutairi |س
 | **Student ID** | 445050300 |
 | **University Email** | 445050300@std.psau.edu.sa |
 | **GitHub Username** | ziad4450 |
